@@ -24,6 +24,9 @@ The dataset used in this notebook is the NSL-KDD dataset, which can be found at 
 - Training set: 'KDDTrain+.txt'
 - Test set: 'KDDTest+.txt'
 
+The NSL-KDD dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/hassan06/nslkdd).
+
+
 ## Notebook Outline
 1. Data Loading
 2. Initial Data Transformations
